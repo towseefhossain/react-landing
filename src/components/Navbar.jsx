@@ -1,26 +1,6 @@
 import React, { Component } from 'react'
-import { Link, animateScroll as scroll } from "react-scroll";
 import NavigationBar from './NavigationBar'
-import DropdownMenu from './DropdownMenu'
 
-const sections = [
-    {
-        title: "Resume",
-        section: "resume"
-    },
-    {
-        title: "Projects",
-        section: "projects"
-    },
-    {
-        title: "Experience",
-        section: "experience"
-    },
-    {
-        title: "Volunteering",
-        section: "volunteering"
-    },
-]
 
 class Navbar extends Component {
     constructor() {

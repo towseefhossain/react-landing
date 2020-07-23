@@ -1,0 +1,20 @@
+[
+    {
+        "title": "FoodyRoomies",
+        "projectLink": "https://github.com/alexshi0000/FoodyRoomies/",
+        "imgLink": "img/FoodyRoomies.png",
+        "caption": "An app that allows roommates to manage shared groceries and schedules."
+    },
+    {
+        "title": "Pandas_FIFA19",
+        "projectLink": "https://github.com/towseefhossain/Pandas_Fifa19/",
+        "imgLink": "img/fifa19.png",
+        "caption": "A Data Science project using Pandas and Matplotlib in Python3 on a dataset from Kaggle.com."
+    },
+    {
+        "title": "Personal Website",
+        "projectLink": "https://github.com/towseefhossain/landing-page/",
+        "imgLink": "/img/img_4.jpg",
+        "caption": "This website! Made entirely in ReactJS with Bootstrap CSS"
+    }
+]

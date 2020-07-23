@@ -1,3 +1,7 @@
+/**
+ * Inactive Class
+ */
+
 import React, { Component } from 'react';
 import { Link, animateScroll as scroll } from "react-scroll";
 import { CSSTransition } from 'react-transition-group'

@@ -1,24 +1,6 @@
 import React, { Component } from 'react';
 import { Link, animateScroll as scroll } from "react-scroll";
-
-const sections = [
-    {
-        title: "Resume",
-        section: "resume"
-    },
-    {
-        title: "Projects",
-        section: "projects"
-    },
-    {
-        title: "Experience",
-        section: "experience"
-    },
-    {
-        title: "Volunteering",
-        section: "volunteering"
-    },
-]
+import sections from '../data/sections.json'
 
 
 class Navigationbar extends Component {
