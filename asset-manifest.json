@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-landing/static/css/main.7836646e.chunk.css",
+    "main.js": "/react-landing/static/js/main.2107b8f1.chunk.js",
+    "main.js.map": "/react-landing/static/js/main.2107b8f1.chunk.js.map",
+    "runtime-main.js": "/react-landing/static/js/runtime-main.1b583fd5.js",
+    "runtime-main.js.map": "/react-landing/static/js/runtime-main.1b583fd5.js.map",
+    "static/js/2.dc520ab5.chunk.js": "/react-landing/static/js/2.dc520ab5.chunk.js",
+    "static/js/2.dc520ab5.chunk.js.map": "/react-landing/static/js/2.dc520ab5.chunk.js.map",
+    "3eeeb336567113099595.worker.js": "/react-landing/3eeeb336567113099595.worker.js",
+    "3eeeb336567113099595.worker.js.LICENSE.txt": "/react-landing/3eeeb336567113099595.worker.js.LICENSE.txt",
+    "3eeeb336567113099595.worker.js.map": "/react-landing/3eeeb336567113099595.worker.js.map",
+    "index.html": "/react-landing/index.html",
+    "precache-manifest.7dd5e092173ca3e8d2def9035db8cdc5.js": "/react-landing/precache-manifest.7dd5e092173ca3e8d2def9035db8cdc5.js",
+    "service-worker.js": "/react-landing/service-worker.js",
+    "static/css/main.7836646e.chunk.css.map": "/react-landing/static/css/main.7836646e.chunk.css.map",
+    "static/js/2.dc520ab5.chunk.js.LICENSE.txt": "/react-landing/static/js/2.dc520ab5.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/react-landing/static/media/rawkbrush-ywlym-webfont.a49d0840.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b583fd5.js",
+    "static/js/2.dc520ab5.chunk.js",
+    "static/css/main.7836646e.chunk.css",
+    "static/js/main.2107b8f1.chunk.js"
+  ]
+}
