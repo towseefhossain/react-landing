@@ -11,6 +11,14 @@ class Resume extends Component {
         this.onResize = this.onResize.bind(this)
     }
 
+    componentDidMount() {
+        window.addEventListener('resize', this.onResize);
+    }
+
+    componentWillUnmount() {
+        window.removeEventListener('resize');
+    }
+
     onResize() {
         this.setState({
             layoutMode: this.getLayoutMode(),
@@ -32,13 +40,13 @@ class Resume extends Component {
                     <div className="row text-center" style={{ justifyContent: 'center' }}>
                         <Document
                             file={pdfFile}
-                            width={this.state.layoutMode === 'desktop' ? "100pc" : (window.innerWidth * 0.7)}
+                            width={this.state.layoutMode === 'desktop' ? "100pc" : (window.innerWidth)}
                         >
                             <Page
                                 pageNumber={1}
                                 renderAnnotationLayer={false}
                                 renderTextLayer={false}
-                                width={this.state.layoutMode === 'desktop' ? "" : (window.innerWidth * 0.7)}></Page>
+                                width={this.state.layoutMode === 'desktop' ? "" : (window.innerWidth)}></Page>
                         </Document>
                     </div>
                 </div>
