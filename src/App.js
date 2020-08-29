@@ -21,7 +21,7 @@ function App() {
 
       <Masthead />
 
-      <Resume />
+      {/* <Resume /> */}
 
       <Portfolio projectsLinks={projectsLinks} />
 

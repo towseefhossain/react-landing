@@ -15,4 +15,8 @@
         "imgClass": "fa fa-instagram",
         "link": "https://www.instagram.com/__2sif__/"
     }
+    {
+        "imgClass": "fa fa-file",
+        "link": "https://github.com/towseefhossain/react-landing/blob/master/public/resume.pdf"
+    }
 ]
