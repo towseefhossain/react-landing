@@ -16,5 +16,11 @@
         "projectLink": "https://github.com/towseefhossain/landing-page/",
         "imgLink": "/img/img_4.jpg",
         "caption": "This website! Made entirely in ReactJS with Bootstrap CSS"
+    },
+    {
+        "title": "Shoppies",
+        "projectLink": "towseef-shoppies.herokuapp.com/",
+        "imgLink": "https://cdn.shopify.com/assets/images/logos/shopify-bag.png",
+        "caption": "A movie awards nominations application to vote on your favourite movies"
     }
 ]
